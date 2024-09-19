@@ -63,8 +63,6 @@
     - **Usage Keywords:** Threat intelligence | Cyber threat detection | Security alerts | Threat reputation | Real-time threat monitoring | Incident response | Threat research | Network security | Malware intelligence | Cybersecurity threats | Vulnerability assessment | Attack patterns | Threat analysis | Security advisories | Network forensics | Exploit detection | Threat reports | Cybersecurity insights | Attack intelligence | Threat mitigation
     - **Attack Phase:** 10 Discovery | 15 Collection
 
-Here’s the extracted data from the provided Chrome bookmark HTML file, including usage keywords and attack phases for each site:
-
 11. **[Talos File Reputation Lookup || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence](https://talosintelligence.com/talos_file_reputation)**
     - **Usage Keywords:** Threat intelligence | File reputation | Malware analysis | Security research | Threat detection | Cyber threat analysis | Cybersecurity insights | Network security | Threat reputation | Cybersecurity tools | Incident response | Threat research | Malware detection | Security advisories | Attack patterns | Threat intelligence services | Real-time monitoring | Exploit detection | Cyber threat intelligence | Cybersecurity solutions
     - **Attack Phase:** 10 Discovery | 15 Collection
@@ -460,8 +458,6 @@ Here’s the extracted data from the provided Chrome bookmark HTML file, includi
 16. **[bitsadmin / wesng](https://github.com/bitsadmin/wesng)**
     - **Usage Keywords:** Windows exploit suggestion | Vulnerability assessment | Patch analysis | Exploit detection | Security misconfiguration identification | Windows security | Privilege escalation vulnerabilities | Local privilege escalation | Exploit development | Windows hardening | Patch management | Security scanning | Kernel vulnerabilities | Security assessment | System hardening | Exploit mitigation | CVE analysis | Penetration testing | Threat assessment | Vulnerability discovery
     - **Attack Phase:** 5 Exploitation | 11 Privilege Escalation | 10 Discovery
-
-Here are the extracted websites from the provided Chrome bookmarks, along with 20 potential usage keywords and associated attack phases from the Unified Kill Chain:
 
 17. **[itm4n / PrivescCheck](https://github.com/itm4n/PrivescCheck)**
    - **Usage Keywords:** Privilege escalation | Windows enumeration | Local privilege discovery | Security auditing | Windows vulnerabilities | Privilege escalation techniques | System vulnerability assessment | Privilege scanning | Local user discovery | Windows privilege check | Active Directory enumeration | Security misconfigurations | Elevation of privileges | Security vulnerability mapping | User permission audit | Privilege access review | Windows security gaps | System rights assessment | Privilege path discovery | Windows security tools
